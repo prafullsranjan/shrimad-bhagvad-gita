@@ -402,9 +402,7 @@
 || 10.30 || prahlādaśh chāsmi daityānāṁ kālaḥ kalayatām ahammṛigāṇāṁ cha mṛigendro ’haṁ vainateyaśh cha pakṣhiṇām
 || 10.31 || pavanaḥ pavatām asmi rāmaḥ śhastra-bhṛitām ahamjhaṣhāṇāṁ makaraśh chāsmi srotasām asmi jāhnavī
 || 10.32 || sargāṇām ādir antaśh cha madhyaṁ chaivāham arjunaadhyātma-vidyā vidyānāṁ vādaḥ pravadatām aham
-|| 10.33 || अहमेवाक्षय: कालो धाताहं विश्वतोमुख: 
-|| 33
-||akṣharāṇām a-kāro ’smi dvandvaḥ sāmāsikasya chaaham evākṣhayaḥ kālo dhātāhaṁ viśhvato-mukhaḥ
+|| 10.33 || akṣharāṇām a-kāro ’smi dvandvaḥ sāmāsikasya cha aham evākṣhayaḥ kālo dhātāhaṁ viśhvato-mukhaḥ
 || 10.34 || mṛityuḥ sarva-haraśh chāham udbhavaśh cha bhaviṣhyatāmkīrtiḥ śhrīr vāk cha nārīṇāṁ smṛitir medhā dhṛitiḥ kṣhamā
 || 10.35 || bṛihat-sāma tathā sāmnāṁ gāyatrī chhandasām ahammāsānāṁ mārga-śhīrṣho ’ham ṛitūnāṁ kusumākaraḥ
 || 10.36 || dyūtaṁ chhalayatām asmi tejas tejasvinām ahamjayo ’smi vyavasāyo ’smi sattvaṁ sattvavatām aham
@@ -432,9 +430,7 @@
 || 11.16 || aneka-bāhūdara-vaktra-netraṁpaśhyāmi tvāṁ sarvato ’nanta-rūpamnāntaṁ na madhyaṁ na punas tavādiṁpaśhyāmi viśhveśhvara viśhva-rūpa
 || 11.17 || kirīṭinaṁ gadinaṁ chakriṇaṁ chatejo-rāśhiṁ sarvato dīptimantampaśhyāmi tvāṁ durnirīkṣhyaṁ samantāddīptānalārka-dyutim aprameyam
 || 11.18 || tvam akṣharaṁ paramaṁ veditavyaṁtvam asya viśhvasya paraṁ nidhānamtvam avyayaḥ śhāśhvata-dharma-goptāsanātanas tvaṁ puruṣho mato me
-|| 11.19 || स्वतेजसा विश्वमिदं तपन्तम् 
-|| 19
-||
+|| 11.19 || anādi-madhyāntam ananta-vīryam ananta-bāhuṁ śhaśhi-sūrya-netram paśhyāmi tvāṁ dīpta-hutāśha-vaktraṁ sva-tejasā viśhvam idaṁ tapantam
 || 11.20 || dyāv ā-pṛithivyor idam antaraṁ hivyāptaṁ tvayaikena diśhaśh cha sarvāḥdṛiṣhṭvādbhutaṁ rūpam ugraṁ tavedaṁloka-trayaṁ pravyathitaṁ mahātman
 || 11.21 || amī hi tvāṁ sura-saṅghā viśhantikechid bhītāḥ prāñjalayo gṛiṇantisvastīty uktvā maharṣhi-siddha-saṅghāḥstuvanti tvāṁ stutibhiḥ puṣhkalābhiḥ
 || 11.22 || rudrādityā vasavo ye cha sādhyāviśhve ’śhvinau marutaśh choṣhmapāśh chagandharva-yakṣhāsura-siddha-saṅghāvīkṣhante tvāṁ vismitāśh chaiva sarve
@@ -699,3 +695,7 @@
 || 18.72 || kachchid etach chhrutaṁ pārtha tvayaikāgreṇa chetasākachchid ajñāna-sammohaḥ pranaṣhṭas te dhanañjaya
 || 18.73 || arjuna uvāchanaṣhṭo mohaḥ smṛitir labdhā tvat-prasādān mayāchyutasthito ‘smi gata-sandehaḥ kariṣhye vachanaṁ tava
 || 18.74 || sañjaya uvāchaity ahaṁ vāsudevasya pārthasya cha mahātmanaḥsaṁvādam imam aśhrauṣham adbhutaṁ roma-harṣhaṇam
+|| 18.75 || vyāsa-prasādāch chhrutavān etad guhyam ahaṁ paramyogaṁ yogeśhvarāt kṛiṣhṇāt sākṣhāt kathayataḥ svayam
+|| 18.76 || rājan sansmṛitya sansmṛitya saṁvādam imam adbhutamkeśhavārjunayoḥ puṇyaṁ hṛiṣhyāmi cha muhur muhuḥ
+|| 18.77 || tach cha sansmṛitya saṁsmṛitya rūpam aty-adbhutaṁ hareḥvismayo ye mahān rājan hṛiṣhyāmi cha punaḥ punaḥ
+|| 18.78 || yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥtatra śhrīr vijayo bhūtir dhruvā nītir matir mama
